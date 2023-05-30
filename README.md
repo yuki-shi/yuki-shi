@@ -6,7 +6,7 @@ currently working on a marketing agency doing some social media scraping and dat
 ## :bee: tools :bee:
 lotsa cool stuff, but mostly:
 <br>
-[![My Skills](https://skillicons.dev/icons?i=py,bash,postgres,vim)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=py,bash,postgres,gcp,vim)](https://skillicons.dev) 
 
 ## :snail: contact :snail:
 [![](https://img.shields.io/badge/-linkedin-0073B1?style=flat-square)](https://www.linkedin.com/in/yuki-shimura-%E2%9A%A7%EF%B8%8F-242b6721a/)  [![discord](https://img.shields.io/badge/-discord-lightgrey?style=flat-square)](https://discordapp.com/users/338522353837539330)
