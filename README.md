@@ -3,7 +3,8 @@
   <div align=center>
     <p>i'm just a regular girl who likes data extraction and automatization („• ֊ •„)
     <br>
-<s>currently working on a marketing agency doing some social media scraping and data analysis.</s></p>
+</p><s>currently working on a marketing agency doing some social media scraping and data analysis.</s><br>
+  currently trying my best as a python developer on an IT company >:3</p>
       <img src="https://github.com/yuki-shi/yuki-shi/blob/main/assets/picmix.com_1889684.gif">
     <h2>:bee: tools</h2>
     <p>lotsa cool stuff, but mostly:</p>
